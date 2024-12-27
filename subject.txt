@@ -1,0 +1,6 @@
+english
+hindi
+marathi
+sst
+maths
+social science
