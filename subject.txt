@@ -1,6 +1,6 @@
-english
-hindi
-marathi
-sst
-maths
-social science
+english		- 80
+hindi		- 79
+marathi		- 79
+sst		- 91
+maths		- 95
+social science	- 92
